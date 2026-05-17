@@ -690,6 +690,13 @@
         "domains": ["imgtoimggenerator.com"]
     },
     {
+        "name": "Aimlabs",
+        "url": "https://aimlabs.com/account/info",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the account info page and click the link.",
+        "domains": ["aimlabs.com"]
+    },
+    {
         "name": "aiqfome",
         "url": "https://aiqfome.com/",
         "difficulty": "hard",
@@ -1106,6 +1113,14 @@
             "alza.hu",
             "alza.at"
         ]
+    },
+    {
+        "name": "ALZeducate",
+        "url": "https://alzeducate.ca/user/edit.php",
+        "difficulty": "hard",
+        "notes": "Must email them to have your account and data deleted, as well as to have your email removed from their email distribution lists.",
+        "email": "alzed@alzon.ca",
+        "domains": ["alzeducate.ca"]
     },
     {
         "name": "Amara",
@@ -4402,6 +4417,13 @@
         ]
     },
     {
+        "name": "CoinEx",
+        "url": "https://www.coinex.com/en/help/sections/articles/14011154149401-How-to-Delete-My-Account",
+        "difficulty": "easy",
+        "notes": "Sign in then visit [your security settings](https://www.coinex.com/en/my/info/security), scroll down to Advanced Settings and click Delete next to Account Management.",
+        "domains": ["coinex.com"]
+    },
+    {
         "name": "CoinGecko",
         "url": "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
         "difficulty": "easy",
@@ -6603,6 +6625,13 @@
             "pim.etesync.com",
             "dashboard.etebase.com"
         ]
+    },
+    {
+        "name": "Etherscan",
+        "url": "https://etherscan.io/mysettings",
+        "difficulty": "medium",
+        "notes": "Click the 'Delete Account' button at the bottom of the page and click 'Confirm Delete'. A confirmation email will be sent to your inbox. Follow the link in the email and enter your password to finalize the deletion. Your account will be disabled immediately and permanently deleted after 30 days.",
+        "domains": ["etherscan.io"]
     },
     {
         "name": "eToro",
@@ -14307,8 +14336,9 @@
     },
     {
         "name": "Méliuz",
-        "url": "https://www.meliuz.com.br/minha-conta/meus-dados/excluir-conta",
-        "difficulty": "easy",
+        "url": "https://ajuda.meliuz.com.br/hc/pt-br/articles/4417549110292",
+        "difficulty": "hard",
+        "notes": "No self-service deletion is available. Call 0800 301 0101 and select the cancellation option.",
         "domains": ["meliuz.com.br"]
     },
     {
